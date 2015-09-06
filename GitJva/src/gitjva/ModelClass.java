@@ -9,5 +9,7 @@ package gitjva;
  * @author Chayan_pc
  */
 public class ModelClass {
+    int x;
+    int y;
     
 }
